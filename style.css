@@ -86,10 +86,11 @@ h2 {
 .second {
     display: flex;
     justify-content: center;
-
+    flex: auto;
     gap: 64px;
     flex-wrap: wrap;
-    height: 350px;
+    height: auto;
+    margin-bottom: 100px;
 }
 .boxt {
     font-size: 24px;
