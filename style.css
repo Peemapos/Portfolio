@@ -126,10 +126,14 @@ h2 {
     padding: 50px;
     height: 100px;
     width: 1000px;
-    border-radius: 25px;
+    border-radius: 15px;
     color: #F9FAF8;
     font-size: 36px;
     font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 200px;
 
 }
 .button2 {
@@ -139,9 +143,9 @@ h2 {
     border-radius: 10px;
     border: 2px solid white;
     padding: 1px 10px;
-    margin-left: 100px;
+    margin-right: 300px;
 }
-.signuptext {
+.signuptext2 {
     color: #d7d7d7;
     font-size: 16px;
     max-width: 1000px;
