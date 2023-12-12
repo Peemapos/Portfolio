@@ -114,13 +114,13 @@ h2 {
 .quote {
     font-style: italic;
     font-size: 36px;
+    display: flex;
+    flex-direction: column;
 }
 .quotename {
     font-size: 24px;
     font-weight: bolder;
-    margin-top: 10px;
-    margin-left: auto;
-    margin-right: 250px;
+    align-self: flex-end;
 }
 .fourth {
     height: 300px;
