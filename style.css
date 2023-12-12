@@ -151,3 +151,15 @@ h2 {
     font-size: 16px;
     max-width: 1000px;
 }
+.footer {
+    height: 150px;
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+}
+.footertext {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #E5E7EB;
+}
